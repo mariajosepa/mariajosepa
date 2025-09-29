@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving my web-dev skills!
-- 🌱 I’m learning c++ and object oriented programming
+- 🔭 I’m currently working on improving my dev skills!
+- 🌱 I’m learning Python and Golang and becoming a better developer every day
 - 🤔 I look forward to collaborating on future projects
 
 *Thank you for checking out my page!*
